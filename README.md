@@ -4,5 +4,9 @@ Coin man android Game using libGDX Java game development framework based on Open
 
 
 To test the app download the app via given link or scanning the given QR.
+
+
 https://drive.google.com/file/d/1MO6dQMbYKt-P09VBPKiotYWEPiQPGh7H/view?usp=share_link
+
+
 ![qrcode](https://github.com/meashishpatel/coinMan/assets/107139540/2612f62e-cf04-49a7-84cf-ae7ccc334e28)
